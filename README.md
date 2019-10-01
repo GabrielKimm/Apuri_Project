@@ -22,7 +22,7 @@ Development of High-Performance IoT Air Purifier
 ## Images
 [AntiNoiseAirOutlet]
 + Rendering Image
-![AntiNoiseAirOutlet](./Product_Pictures/AntiNoiseAirOutlet/Rendering.jpeg)
+![AntiNoiseAirOutlet](img src="./Product_Pictures/AntiNoiseAirOutlet/Rendering.jpeg" width=600px)
 
 + 3dPrintedAirOutlet
-![AntiNoiseAirOutlet](./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg)
+![AntiNoiseAirOutlet](img src="./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg" width=600px)
