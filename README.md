@@ -19,10 +19,10 @@ Development of High-Performance IoT Air Purifier
 [Power Supply]
 + DC12V / 2A (5.5-2.1)[P8240]
 
-## Images
-[AntiNoiseAirOutlet]
-+ Rendering Image
-![AntiNoiseAirOutlet](img src="./Product_Pictures/AntiNoiseAirOutlet/Rendering.jpeg" width=600px)
+## AntiNoiseAirOutlet
 
-+ 3dPrintedAirOutlet
-![AntiNoiseAirOutlet](img src="./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg" width=600px)
+### Rendering Image
+![AntiNoiseAirOutlet](./Product_Pictures/AntiNoiseAirOutlet/Rendering.jpeg)
+
+### 3dPrintedAirOutlet
+![AntiNoiseAirOutlet](./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg)
