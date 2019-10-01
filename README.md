@@ -18,3 +18,11 @@ Development of High-Performance IoT Air Purifier
 + 0.96" inch IIC/I2C Communication 12864 OLED LCD Module 4pin
 [Power Supply]
 + DC12V / 2A (5.5-2.1)[P8240]
+
+## Images
+[AntiNoiseAirOutlet]
++ Rendering Image
+![AntiNoiseAirOutlet](./Product_Pictures/AntiNoiseAirOutlet/Rendering.jpeg)
+
++ 3dPrintedAirOutlet
+![AntiNoiseAirOutlet](./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg)
