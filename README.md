@@ -20,7 +20,7 @@ Development of High-Performance IoT Air Purifier
 + DC12V / 2A (5.5-2.1)[P8240]
 
 ## iOS Air-purifier Manager APP
-<img src="./Product_Pictures/iOS_APP/clean.png" width="40%" height="40%"><img src="./Product_Pictures/iOS_APP/worst.png" width="40%" height="40%">
+<img src="./Product_Pictures/iOS_APP/clean.png" width="30%" height="30%"><img src="./Product_Pictures/iOS_APP/worst.png" width="30%" height="30%"><img src="./Product_Pictures/iOS_APP/normal.png" width="30%" height="30%">
 
 ## AntiNoiseAirOutlet
 
@@ -28,4 +28,4 @@ Development of High-Performance IoT Air Purifier
 <img src="./Product_Pictures/AntiNoiseAirOutlet/Rendering.jpeg" width="50%" height="50%">
 
 ### 3dPrinted AirOutlet
-<img src="./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg" width="50%" height="50%">
+<img src="./Product_Pictures/AntiNoiseAirOutlet/3dPrintedAirOutlet.jpeg" width="40%" height="40%">
